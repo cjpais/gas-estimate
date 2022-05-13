@@ -1,5 +1,0 @@
-type NFT @entity {
-  id: ID!
-  owner: Bytes!
-  tokenURI: String!
-}
